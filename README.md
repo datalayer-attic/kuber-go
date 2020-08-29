@@ -39,5 +39,6 @@ Build and install Kuber.
 make build && \
   make install
 ```
-
+<!--
 ![Kuber](https://raw.githubusercontent.com/datalayer/datalayer/main/docs/_images/what/kuber.svg?sanitize=true "Kuber")
+-->
