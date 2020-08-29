@@ -1,6 +1,9 @@
 [![Datalayer](https://raw.githubusercontent.com/datalayer/datalayer/main/res/logo/datalayer-25.svg?sanitize=true)](https://datalayer.io)
 
-# Datalayer Kuber
+# Datalayer Kuber Go
+
+> ARCHIVED - Use the [Kuber](https://github.com/datalayer/kuber)
+> This was the first iteration for Kuber with [Golang](https://golang.org) and [Kubicorn](https://github.com/kubicorn/kubicorn)
 
 ⛵️ ⚓️ Kuber is an open source tool to create, manage and share Kubernetes clusters.
 
