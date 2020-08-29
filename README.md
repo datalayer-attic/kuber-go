@@ -7,9 +7,6 @@
 
 ⛵️ ⚓️ Kuber is an open source tool to create, manage and share Kubernetes clusters.
 
-- [Kuber Python](./kuber-py)
-- [Kuber Golang](./kuber)
-
 The Kuber Server operates Kubernetes.
 
 + Create (or enroll) K8S clusters.
